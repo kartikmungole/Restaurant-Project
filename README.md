@@ -15,7 +15,7 @@ This project is a Restaurant Booking System where users can:
 
 
 ## Tech Stack
-Backend: Python 3.x, Django 4.x
-Frontend: HTML5, CSS (for basic styling)
-Database: SQLite (default Django database)
-Development Environment: PyCharm, VS Code, or any preferred IDE
+* Backend: Python 3.x, Django 4.x
+* Frontend: HTML5, CSS (for basic styling)
+* Database: SQLite (default Django database)
+* Development Environment: PyCharm, VS Code, or any preferred IDE
