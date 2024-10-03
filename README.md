@@ -18,11 +18,11 @@ This project is a Restaurant Booking System where users can:
 * Navigate to the "Book a Table" page.
 * Fill in the required details such as date, time, and party size.
 * Submit the form to reserve your table.
-Viewing Special Menu:
 
+**Viewing Special Menu**:
 Visit the "Special Menu" section to explore the restaurant’s featured dishes.
-Checking Table Number:
 
+**Checking Table Number**:
 After successful booking, the system will display your assigned table number.
 
 
